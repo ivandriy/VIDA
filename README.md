@@ -1,2 +1,3 @@
-# VIDA
-Ставимо VIDA 
+# VIDA на MacOS
+
+Ставимо UTM
