@@ -22,6 +22,20 @@
 brew install utm
 ```
 
+- ставимо додаткові пакети для роботи UTM
+
+```
+brew install qemu
+brew install aria2
+
+brew tap sidneys/homebrew
+brew install cabextract wimlib cdrtools
+
+brew tap minacle/chntpw
+brew install minacle/chntpw/chntpw
+
+```
+
 ## Створення віртуальної машини з готового образу VIDA
 
 - Завантажуємо [образ](https://www.dropbox.com/scl/fi/jgsean0efih2ba5t73czu/VIDA_ru.zip?rlkey=aj6fu2y7efomp3hd8syey3ws9&dl=0) віртуальної машини з уже встановленою та налаштованою VIDA
