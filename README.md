@@ -1,4 +1,4 @@
-# VIDA на MacOS
+# VIDA на MacOS з Apple Silicon M1/2/3 
 
 ## Установка UTM
 
